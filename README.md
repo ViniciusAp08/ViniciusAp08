@@ -7,7 +7,7 @@ Sou **estudante** do **2º ano** do **ensino médio** e atualmente estou **apren
 **Gosto** de **trabalhar** com a parte do **backend com** as **ferramentas** ☕**Java** + 🍃**Spring framework** e **Banco de dados**.
 
 ## ***Conecte-se comigo***
-[![LinkedIn](https://img.icons8.com/?size=60&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/vinicius-adriano-pereira-0a9b753a4/)
+[![LinkedIn](https://img.icons8.com/?size=60&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/viniciusadrianopereira/)
 [![GitHub](https://img.icons8.com/?size=60&id=12598&format=png&color=FFFFFF)](https://github.com/ViniciusAp08)
 
 ## **Habilidades**
