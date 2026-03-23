@@ -20,10 +20,11 @@ Sou **estudante** do **2º ano** do **ensino médio** e atualmente estou **apren
 
 ||
 |-----|
-|Git e GitHub|
-|Java|
-|Spring Framework|
-|Banco de Dados SQL|
+|GitHub [![GitHub](https://img.icons8.com/?size=25&id=12598&format=png&color=FFFFFF)](https://github.com/ViniciusAp08)|
+|Git ![Git](https://img.icons8.com/?size=25&id=6Qr2kBSBemvq&format=png&color=000000)|
+|Java ![Java](https://img.icons8.com/?size=25&id=13679&format=png&color=000000) |
+|Spring Framework ![Spring Framework](https://img.icons8.com/?size=25&id=90519&format=png&color=000000)|
+|Banco de Dados SQL ![SQL](https://img.icons8.com/?size=25&id=dwJoQUjh5qoh&format=png&color=6167FF)|
 
 ```
 import java.time.LocalDateTime;
@@ -53,5 +54,3 @@ WHERE
 ORDER BY
     cf.color desc
 ```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAp08&theme=transparent&bg_color=3B0000&border_color=000000&show_icons=true&icon_color=BA7777&title_color=E85A5A&text_color=FF7D7D)
