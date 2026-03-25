@@ -1,7 +1,6 @@
-# Olá, sou o Vinicius Adriano Pereira!
+# Olá👋, sou o Vinicius Adriano Pereira!👨‍💻
 
 ## **Introdução**
-
 Sou **estudante** do **2º ano** do **ensino médio** e atualmente estou **aprendendo Java**.
 
 **Gosto** de **trabalhar** com a parte do **backend com** as **ferramentas** ☕**Java** + 🍃**Spring framework** e **Banco de dados**.
