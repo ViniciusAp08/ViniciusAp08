@@ -7,11 +7,11 @@ Sou **estudante** do **2º ano** do **ensino médio** e atualmente estou **apren
 
 ## ***Conecte-se comigo***
 [![LinkedIn](https://img.icons8.com/?size=60&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/viniciusadrianopereira/)
-[![GitHub](https://img.icons8.com/?size=60&id=12598&format=png&color=FFFFFF)](https://github.com/ViniciusAp08)
+[![GitHub](https://img.icons8.com/?size=60&id=v551nqGeHhGn&format=png&color=6D7885)](https://github.com/ViniciusAp08)
 
 ## **Habilidades**
 
-[![GitHub](https://img.icons8.com/?size=60&id=12598&format=png&color=FFFFFF)](https://github.com/ViniciusAp08)
+[![GitHub](https://img.icons8.com/?size=60&id=v551nqGeHhGn&format=png&color=6D7885)](https://github.com/ViniciusAp08)
 ![Git](https://img.icons8.com/?size=60&id=6Qr2kBSBemvq&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=60&id=13679&format=png&color=000000) 
 ![Spring Framework](https://img.icons8.com/?size=60&id=90519&format=png&color=000000)
@@ -25,7 +25,7 @@ Sou **estudante** do **2º ano** do **ensino médio** e atualmente estou **apren
 |Spring Framework ![Spring Framework](https://img.icons8.com/?size=25&id=90519&format=png&color=000000)|
 |Banco de Dados SQL ![SQL](https://img.icons8.com/?size=25&id=dwJoQUjh5qoh&format=png&color=6167FF)|
 
-```
+```java
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
@@ -43,7 +43,7 @@ public class main {
 }
 ```
 
-```
+```sql
 SELECT
     *
 FROM
