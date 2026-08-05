@@ -17,7 +17,7 @@ Sou **estudante** do **2º ano** do **ensino médio** e atualmente estou realiza
 ![Spring Framework](https://img.icons8.com/?size=60&id=90519&format=png&color=000000)
 ![SQL](https://img.icons8.com/?size=60&id=dwJoQUjh5qoh&format=png&color=6167FF)
 
-||
+|Skills|
 |-----|
 |GitHub [![GitHub](https://img.icons8.com/?size=25&id=12598&format=png&color=FFFFFF)](https://github.com/ViniciusAp08)|
 |Git ![Git](https://img.icons8.com/?size=25&id=6Qr2kBSBemvq&format=png&color=000000)|
